@@ -36,3 +36,5 @@ The simulation highlights a key contrast between short-term noise and long-term 
 2. **Long Term Convergence:** When scaled up to a massive number of rounds (e.g., 10,000 games), individual instances of "good luck" and "bad luck" perfectly balance out to zero. The random noise hits $0$ and the lines smooth out completely. 
 
 ---
+## 🔗 Live View
+[Link To Notebook](https://nbviewer.org/github/veeedant/callbreak-game-monte-carlo-sim/blob/main/callbreak_simulation.ipynb)
